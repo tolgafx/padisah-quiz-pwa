@@ -1,7 +1,8 @@
 {
   "name": "Osmanlı Padişahları Bilgi Oyunu",
   "short_name": "Padişah Quiz",
-  "start_url": "./",
+ https://tolgafx.github.io/padisah-quiz-pwa/
+
   "display": "standalone",
   "background_color": "#0D1B2A",
   "theme_color": "#e67e22",
